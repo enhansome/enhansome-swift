@@ -279,7 +279,7 @@
             "last_commit": "2026-08-18T20:37:17Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51755
+            "stars": 51757
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-04-15T22:47:24Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50086
+            "stars": 50087
           }
         },
         {
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 129699403,
             "language": "Swift",
-            "last_commit": "2026-08-19T11:31:13Z",
+            "last_commit": "2026-08-19T12:53:37Z",
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5769
@@ -1810,7 +1810,7 @@
                 "last_commit": "2023-01-29T02:35:16Z",
                 "owner": "wwt",
                 "repo": "SwiftCurrent",
-                "stars": 306
+                "stars": 305
               }
             },
             {
@@ -4142,7 +4142,7 @@
                     "last_commit": "2026-06-14T23:57:29Z",
                     "owner": "realm",
                     "repo": "realm-swift",
-                    "stars": 16615
+                    "stars": 16616
                   }
                 },
                 {
@@ -4432,7 +4432,7 @@
                     "last_commit": "2026-07-13T14:42:33Z",
                     "owner": "weichsel",
                     "repo": "ZIPFoundation",
-                    "stars": 2714
+                    "stars": 2715
                   }
                 },
                 {
@@ -4833,7 +4833,7 @@
                 "last_commit": "2026-05-22T14:39:34Z",
                 "owner": "devicekit",
                 "repo": "DeviceKit",
-                "stars": 4724
+                "stars": 4725
               }
             },
             {
@@ -7835,7 +7835,7 @@
                 "archived": false,
                 "id": 1249253355,
                 "language": "Swift",
-                "last_commit": "2026-08-19T11:48:53Z",
+                "last_commit": "2026-08-19T12:38:34Z",
                 "owner": "artembobkin",
                 "repo": "ImmersiveMap",
                 "stars": 88
@@ -8697,7 +8697,7 @@
                     "archived": false,
                     "id": 49910095,
                     "language": "Swift",
-                    "last_commit": "2026-08-19T10:55:28Z",
+                    "last_commit": "2026-08-19T11:54:30Z",
                     "owner": "vapor",
                     "repo": "vapor",
                     "stars": 26189
@@ -16679,7 +16679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:51:43.928Z",
+    "last_updated": "2026-08-19T12:53:37.977Z",
     "original_repository": "matteocrippa/awesome-swift",
     "original_repository_id": 21696302,
     "original_repository_sha": "d042674e19d2aa376b2ff6198fc1af73091d97d0",
