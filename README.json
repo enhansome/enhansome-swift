@@ -228,6 +228,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "swift-mode",
+              "description": "Emacs support, including partial flycheck error support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20443295,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-22T11:19:22Z",
+                "owner": "swift-emacs",
+                "repo": "swift-mode",
+                "stars": 382
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emacs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "swift-colab",
+              "description": "Run Swift in a browser.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 439478104,
+                "language": "Swift",
+                "last_commit": "2023-09-12T01:15:08Z",
+                "owner": "philipturner",
+                "repo": "swift-colab",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google Colaboratory"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "vim-polyglot",
               "description": "Language pack for vim that includes vim-swift.",
               "children": [],
@@ -265,6 +309,48 @@
       "title": "Editor Support"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xcprofiler",
+          "description": "Command line utility to profile compilation time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77032655,
+            "language": "Ruby",
+            "last_commit": "2019-10-11T07:34:17Z",
+            "owner": "giginet",
+            "repo": "xcprofiler",
+            "stars": 343
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zolang",
+          "description": "penguin: - A DSL for generating code in multiple programming languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150035879,
+            "language": "Swift",
+            "last_commit": "2022-06-01T23:09:05Z",
+            "owner": "Zolang",
+            "repo": "Zolang",
+            "stars": 155
+          }
+        }
+      ],
+      "title": "Converters"
+    },
+    {
       "description": "Check out apps on these projects:",
       "items": [
         {
@@ -276,10 +362,10 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-23T13:27:40Z",
+            "last_commit": "2026-08-24T13:10:37Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51825
+            "stars": 51826
           }
         },
         {
@@ -309,7 +395,7 @@
             "last_commit": "2026-08-23T18:27:23Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19076
+            "stars": 19077
           }
         },
         {
@@ -387,7 +473,7 @@
             "archived": false,
             "id": 44840041,
             "language": "Swift",
-            "last_commit": "2026-08-22T13:22:21Z",
+            "last_commit": "2026-08-24T12:45:51Z",
             "owner": "swiftlang",
             "repo": "swift-package-manager",
             "stars": 10211
@@ -669,7 +755,7 @@
             "archived": false,
             "id": 129699403,
             "language": "Swift",
-            "last_commit": "2026-08-24T11:54:55Z",
+            "last_commit": "2026-08-24T13:19:38Z",
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5773
@@ -925,6 +1011,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Capable",
+              "description": "Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128437025,
+                "language": "Swift",
+                "last_commit": "2024-06-14T16:16:15Z",
+                "owner": "chrs1885",
+                "repo": "Capable",
+                "stars": 276
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Accessibility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CoreML-Models",
               "description": "A collection of unique Core ML Models.",
               "children": [],
@@ -992,7 +1100,7 @@
                 "archived": false,
                 "id": 1173023018,
                 "language": "Swift",
-                "last_commit": "2026-08-23T15:58:16Z",
+                "last_commit": "2026-08-24T13:36:06Z",
                 "owner": "christopherkarani",
                 "repo": "Espresso",
                 "stars": 166
@@ -1331,7 +1439,7 @@
                 "last_commit": "2019-07-31T06:37:32Z",
                 "owner": "AugustRush",
                 "repo": "Stellar",
-                "stars": 2943
+                "stars": 2944
               }
             },
             {
@@ -2019,7 +2127,7 @@
                 "last_commit": "2026-08-23T00:04:40Z",
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2683
+                "stars": 2684
               }
             },
             {
@@ -3032,7 +3140,7 @@
                 "archived": false,
                 "id": 1175493743,
                 "language": "Swift",
-                "last_commit": "2026-08-24T11:24:08Z",
+                "last_commit": "2026-08-24T11:57:47Z",
                 "owner": "us",
                 "repo": "mocker",
                 "stars": 333
@@ -3266,6 +3374,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "CBORCoding",
+                  "description": "penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190309079,
+                    "language": "Swift",
+                    "last_commit": "2025-04-02T13:12:17Z",
+                    "owner": "SomeRandomiOSDev",
+                    "repo": "CBORCoding",
+                    "stars": 58
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CBOR"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "CoreStore",
                   "description": "simple and elegant way to handle Core Data.",
                   "children": [],
@@ -3455,6 +3585,50 @@
               "description": null,
               "node_type": "group",
               "title": "CSV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ballcap",
+                  "description": "Ballcap is a database schema design framework for Cloud Firestore.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149568469,
+                    "language": "Swift",
+                    "last_commit": "2023-05-28T00:20:44Z",
+                    "owner": "1amageek",
+                    "repo": "Ballcap-iOS",
+                    "stars": 231
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Firebase"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SociableWeaver",
+                  "description": "Build declarative GraphQL queries and mutations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 224062140,
+                    "language": "Swift",
+                    "last_commit": "2022-04-12T17:22:51Z",
+                    "owner": "NicholasBellucci",
+                    "repo": "SociableWeaver",
+                    "stars": 78
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GraphQL"
             },
             {
               "children": [
@@ -4261,7 +4435,7 @@
                     "last_commit": "2026-08-08T08:57:22Z",
                     "owner": "groue",
                     "repo": "GRDB.swift",
-                    "stars": 8619
+                    "stars": 8620
                   }
                 },
                 {
@@ -4283,6 +4457,28 @@
               "description": null,
               "node_type": "group",
               "title": "SQLite"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TOMLDecoder",
+                  "description": "Latest TOML standard, decoded.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 173995094,
+                    "language": "Swift",
+                    "last_commit": "2026-07-11T06:58:32Z",
+                    "owner": "dduan",
+                    "repo": "TOMLDecoder",
+                    "stars": 107
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TOML"
             },
             {
               "children": [
@@ -4432,7 +4628,7 @@
                     "last_commit": "2026-07-13T14:42:33Z",
                     "owner": "weichsel",
                     "repo": "ZIPFoundation",
-                    "stars": 2717
+                    "stars": 2718
                   }
                 },
                 {
@@ -4967,6 +5163,28 @@
           "description": null,
           "node_type": "group",
           "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftyGPIO",
+              "description": "penguin: - Interact with Linux GPIO/SPI/PWM on ARM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49376393,
+                "language": "Swift",
+                "last_commit": "2024-05-02T07:50:51Z",
+                "owner": "uraimo",
+                "repo": "SwiftyGPIO",
+                "stars": 1369
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embedded Systems"
         },
         {
           "children": [
@@ -5635,6 +5853,28 @@
                 "repo": "Raylib",
                 "stars": 135
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ImagineEngine",
+                  "description": "Blazing fasst 2D gaming engine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 106452675,
+                    "language": "Swift",
+                    "last_commit": "2020-09-03T19:52:06Z",
+                    "owner": "JohnSundell",
+                    "repo": "ImagineEngine",
+                    "stars": 1832
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2D"
             }
           ],
           "description": null,
@@ -5992,6 +6232,50 @@
               "description": null,
               "node_type": "group",
               "title": "Camera"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Haptica",
+                  "description": "Easy Haptic Feedback Generator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 86864007,
+                    "language": "Swift",
+                    "last_commit": "2025-07-09T18:12:49Z",
+                    "owner": "efremidze",
+                    "repo": "Haptica",
+                    "stars": 814
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Haptic Feedback"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SwiftLocation",
+                  "description": "Location & Beacon Monitoring.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39890718,
+                    "language": "Swift",
+                    "last_commit": "2024-04-24T15:59:46Z",
+                    "owner": "malcommac",
+                    "repo": "SwiftLocation",
+                    "stars": 3423
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "iBeacon"
             }
           ],
           "description": null,
@@ -7835,7 +8119,7 @@
                 "archived": false,
                 "id": 1249253355,
                 "language": "Swift",
-                "last_commit": "2026-08-24T11:54:24Z",
+                "last_commit": "2026-08-24T13:39:32Z",
                 "owner": "artembobkin",
                 "repo": "ImmersiveMap",
                 "stars": 88
@@ -7972,7 +8256,7 @@
                 "last_commit": "2024-10-29T12:19:30Z",
                 "owner": "shadowsocks",
                 "repo": "ShadowsocksX-NG",
-                "stars": 32885
+                "stars": 32884
               }
             },
             {
@@ -8548,6 +8832,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "SOAPEngine",
+                  "description": "Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6801108,
+                    "language": "Swift",
+                    "last_commit": "2025-11-22T22:08:10Z",
+                    "owner": "priore",
+                    "repo": "SOAPEngine",
+                    "stars": 486
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SOAP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Starscream",
                   "description": "Websockets for iOS and OSX.",
                   "children": [],
@@ -8697,7 +9003,7 @@
                     "archived": false,
                     "id": 49910095,
                     "language": "Swift",
-                    "last_commit": "2026-08-24T06:54:09Z",
+                    "last_commit": "2026-08-24T12:11:56Z",
                     "owner": "vapor",
                     "repo": "vapor",
                     "stars": 26190
@@ -8852,6 +9158,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SwiftOCR",
+              "description": "Neural Network based OCR lib.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56840338,
+                "language": "Swift",
+                "last_commit": "2020-12-13T08:49:55Z",
+                "owner": "NMAC427",
+                "repo": "SwiftOCR",
+                "stars": 4632
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OCR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PDFGenerator",
               "description": "A simple Generator of PDF. Generate PDF from view(s) or image(s).",
               "children": [],
@@ -8914,7 +9242,7 @@
                 "last_commit": "2026-08-21T20:30:20Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19706
+                "stars": 19707
               }
             },
             {
@@ -9056,6 +9384,28 @@
           "description": null,
           "node_type": "group",
           "title": "Quality"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Swift for Scripting",
+              "description": "A hand-curated collection of useful and informative scripting material.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103421903,
+                "language": null,
+                "last_commit": "2025-01-20T12:05:34Z",
+                "owner": "artemnovichkov",
+                "repo": "Swift-For-Scripting",
+                "stars": 315
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scripting"
         },
         {
           "children": [
@@ -9451,6 +9801,28 @@
           "description": null,
           "node_type": "group",
           "title": "Styling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SVGView",
+              "description": "SVG parser and renderer written in SwiftUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334681837,
+                "language": "Swift",
+                "last_commit": "2026-07-08T08:24:43Z",
+                "owner": "exyte",
+                "repo": "SVGView",
+                "stars": 850
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SVG"
         },
         {
           "children": [
@@ -10896,7 +11268,7 @@
                 "last_commit": "2025-02-13T09:46:15Z",
                 "owner": "gaetanzanella",
                 "repo": "OverlayContainer",
-                "stars": 1273
+                "stars": 1274
               }
             },
             {
@@ -12320,6 +12692,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "VisualEffectView",
+                  "description": "UIVisualEffectView subclass with tint color.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59773356,
+                    "language": "Swift",
+                    "last_commit": "2025-12-29T02:58:55Z",
+                    "owner": "efremidze",
+                    "repo": "VisualEffectView",
+                    "stars": 1416
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Blur"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "DOFavoriteButton",
                   "description": "Cute Animated Button.",
                   "children": [],
@@ -13605,6 +13999,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "DMScrollBar",
+                  "description": "Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 582366558,
+                    "language": "Swift",
+                    "last_commit": "2026-04-09T12:08:19Z",
+                    "owner": "batanus",
+                    "repo": "DMScrollBar",
+                    "stars": 43
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Scroll Bars"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "TZStackView",
                   "description": "An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.",
                   "children": [],
@@ -14422,6 +14838,28 @@
               "description": null,
               "node_type": "group",
               "title": "Transition"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Insert3D",
+                  "description": "The fastest 🚀 way to embed a 3D model.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200714526,
+                    "language": "Swift",
+                    "last_commit": "2019-08-13T12:45:32Z",
+                    "owner": "Viktoo",
+                    "repo": "Insert3D",
+                    "stars": 99
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3D"
             },
             {
               "children": [
@@ -15300,7 +15738,7 @@
                 "archived": false,
                 "id": 67177488,
                 "language": "Swift",
-                "last_commit": "2026-08-21T18:40:00Z",
+                "last_commit": "2026-08-24T13:45:13Z",
                 "owner": "apple",
                 "repo": "swift-protobuf",
                 "stars": 4961
@@ -16679,7 +17117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:55:37.271Z",
+    "last_updated": "2026-08-24T13:49:45.766Z",
     "original_repository": "matteocrippa/awesome-swift",
     "original_repository_id": 21696302,
     "original_repository_sha": "d042674e19d2aa376b2ff6198fc1af73091d97d0",
