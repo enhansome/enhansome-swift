@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13146,
+                "stars": 13145,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -103,7 +103,7 @@
                 "open_issues": 0,
                 "owner": "ipader",
                 "repo": "SwiftGuide",
-                "stars": 15983,
+                "stars": 15982,
                 "topics": [
                   "swift",
                   "swift-programming-language"
@@ -575,11 +575,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-15T14:26:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-16T15:19:01Z",
+            "open_issues": 4,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52602,
+            "stars": 52624,
             "topics": [
               "app",
               "apple",
@@ -617,11 +617,11 @@
             "id": 109343098,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-10T08:05:13Z",
-            "open_issues": 485,
+            "last_commit": "2026-10-16T09:05:52Z",
+            "open_issues": 406,
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50801,
+            "stars": 50822,
             "topics": [
               "applications",
               "apps",
@@ -658,10 +658,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-23T18:27:23Z",
-            "open_issues": 287,
+            "open_issues": 296,
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19334,
+            "stars": 19336,
             "topics": [
               "apple",
               "awesome",
@@ -778,7 +778,7 @@
             "open_issues": 217,
             "owner": "Carthage",
             "repo": "Carthage",
-            "stars": 15141,
+            "stars": 15140,
             "topics": [
               "carthage",
               "cocoa",
@@ -804,7 +804,7 @@
             "open_issues": 843,
             "owner": "CocoaPods",
             "repo": "CocoaPods",
-            "stars": 14833,
+            "stars": 14831,
             "topics": [
               "cocoapods",
               "dependency-manager",
@@ -829,8 +829,8 @@
             "id": 44840041,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T15:08:37Z",
-            "open_issues": 1370,
+            "last_commit": "2026-10-16T14:50:04Z",
+            "open_issues": 1371,
             "owner": "swiftlang",
             "repo": "swift-package-manager",
             "stars": 10235,
@@ -882,7 +882,7 @@
             "open_issues": 137,
             "owner": "swiftlang",
             "repo": "swiftly",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "swift",
               "version-manager"
@@ -933,7 +933,7 @@
             "open_issues": 4,
             "owner": "ochococo",
             "repo": "Design-Patterns-In-Swift",
-            "stars": 15247,
+            "stars": 15246,
             "topics": [
               "computer-science",
               "design-patterns",
@@ -962,7 +962,7 @@
             "open_issues": 26,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14957,
+            "stars": 14960,
             "topics": [
               "architecture",
               "composition",
@@ -1019,7 +1019,7 @@
             "open_issues": 22,
             "owner": "objcio",
             "repo": "app-architecture",
-            "stars": 2053,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T21:28:36.412Z"
@@ -1303,7 +1303,7 @@
             "open_issues": 401,
             "owner": "yonaskolb",
             "repo": "XcodeGen",
-            "stars": 8863,
+            "stars": 8866,
             "topics": [
               "ci",
               "cli",
@@ -1330,11 +1330,11 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T15:39:40Z",
-            "open_issues": 514,
+            "last_commit": "2026-10-16T15:26:28Z",
+            "open_issues": 508,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5834,
+            "stars": 5833,
             "topics": [
               "gradle",
               "ios",
@@ -1359,7 +1359,7 @@
             "id": 93763457,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-15T14:11:25Z",
+            "last_commit": "2026-10-16T14:57:22Z",
             "open_issues": 18,
             "owner": "tuist",
             "repo": "XcodeProj",
@@ -1445,7 +1445,7 @@
             "open_issues": 66,
             "owner": "cpisciotta",
             "repo": "xcbeautify",
-            "stars": 1549,
+            "stars": 1552,
             "topics": [
               "formatter",
               "github-actions",
@@ -2242,7 +2242,7 @@
                 "open_issues": 61,
                 "owner": "aptabase",
                 "repo": "aptabase",
-                "stars": 1842,
+                "stars": 1846,
                 "topics": [
                   "analytics",
                   "android",
@@ -2295,8 +2295,8 @@
                 "id": 887033010,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:48:38Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-16T15:12:03Z",
+                "open_issues": 2,
                 "owner": "kasianov-mikhail",
                 "repo": "scout",
                 "stars": 32,
@@ -2365,7 +2365,7 @@
                 "open_issues": 45,
                 "owner": "airbnb",
                 "repo": "lottie-ios",
-                "stars": 26900,
+                "stars": 26899,
                 "topics": [
                   "animation",
                   "bodymovin",
@@ -2396,7 +2396,7 @@
                 "open_issues": 164,
                 "owner": "MengTo",
                 "repo": "Spring",
-                "stars": 14063,
+                "stars": 14062,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -2417,7 +2417,7 @@
                 "open_issues": 49,
                 "owner": "IBAnimatable",
                 "repo": "IBAnimatable",
-                "stars": 8635,
+                "stars": 8634,
                 "topics": [
                   "animation",
                   "interface-builder",
@@ -2627,7 +2627,7 @@
                 "open_issues": 10,
                 "owner": "AugustRush",
                 "repo": "Stellar",
-                "stars": 2938,
+                "stars": 2939,
                 "topics": [
                   "animation",
                   "curve",
@@ -3770,7 +3770,7 @@
                 "id": 189585157,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-14T16:35:14Z",
+                "last_commit": "2026-10-15T19:24:08Z",
                 "open_issues": 3,
                 "owner": "apphud",
                 "repo": "ApphudSDK",
@@ -3898,7 +3898,7 @@
                 "open_issues": 7,
                 "owner": "AudioKit",
                 "repo": "AudioKit",
-                "stars": 11475,
+                "stars": 11477,
                 "topics": [
                   "audio",
                   "audiokit",
@@ -3926,11 +3926,11 @@
                 "id": 1006258471,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T02:10:32Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-16T06:15:43Z",
+                "open_issues": 24,
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 3088,
+                "stars": 3108,
                 "topics": [
                   "ane",
                   "asr",
@@ -4868,7 +4868,7 @@
                 "open_issues": 978,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 27982,
+                "stars": 27979,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -4937,7 +4937,7 @@
                 "open_issues": 55,
                 "owner": "ivnsch",
                 "repo": "SwiftCharts",
-                "stars": 2572,
+                "stars": 2571,
                 "topics": [
                   "chart",
                   "charts",
@@ -5149,7 +5149,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "Chat",
-                "stars": 1889,
+                "stars": 1891,
                 "topics": [
                   "chat",
                   "ios",
@@ -5626,11 +5626,11 @@
                 "id": 241928033,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T04:25:18Z",
+                "last_commit": "2026-10-16T14:50:30Z",
                 "open_issues": 152,
                 "owner": "apple",
                 "repo": "swift-argument-parser",
-                "stars": 3789,
+                "stars": 3791,
                 "topics": [
                   "cli",
                   "command-line",
@@ -5786,7 +5786,7 @@
                 "open_issues": 3,
                 "owner": "us",
                 "repo": "mocker",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "apple-containerization",
                   "cli",
@@ -6741,7 +6741,7 @@
                     "open_issues": 139,
                     "owner": "SwiftyJSON",
                     "repo": "SwiftyJSON",
-                    "stars": 22927,
+                    "stars": 22925,
                     "topics": [
                       "carthage",
                       "cocoapods",
@@ -6773,7 +6773,7 @@
                     "open_issues": 68,
                     "owner": "tristanhimmelman",
                     "repo": "ObjectMapper",
-                    "stars": 9127,
+                    "stars": 9126,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:36.412Z"
@@ -6794,7 +6794,7 @@
                     "open_issues": 234,
                     "owner": "alibaba",
                     "repo": "HandyJSON",
-                    "stars": 4257,
+                    "stars": 4256,
                     "topics": [
                       "deserialization",
                       "json",
@@ -6888,7 +6888,7 @@
                     "open_issues": 7,
                     "owner": "delba",
                     "repo": "JASON",
-                    "stars": 1006,
+                    "stars": 1005,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:36.412Z"
@@ -7261,7 +7261,7 @@
                     "open_issues": 23,
                     "owner": "sindresorhus",
                     "repo": "Defaults",
-                    "stars": 2506,
+                    "stars": 2507,
                     "topics": [
                       "ios",
                       "macos",
@@ -7968,7 +7968,7 @@
                     "open_issues": 498,
                     "owner": "realm",
                     "repo": "realm-swift",
-                    "stars": 16603,
+                    "stars": 16601,
                     "topics": [
                       "database",
                       "ios",
@@ -8178,7 +8178,7 @@
                     "open_issues": 14,
                     "owner": "groue",
                     "repo": "GRDB.swift",
-                    "stars": 8689,
+                    "stars": 8691,
                     "topics": [
                       "database",
                       "database-observation",
@@ -8567,7 +8567,7 @@
                 "open_issues": 94,
                 "owner": "malcommac",
                 "repo": "SwiftDate",
-                "stars": 7691,
+                "stars": 7689,
                 "topics": [
                   "date",
                   "date-formatting",
@@ -8618,7 +8618,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-05T18:44:00Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "davedelong",
                 "repo": "time",
                 "stars": 2342,
@@ -8676,7 +8676,7 @@
                 "open_issues": 1,
                 "owner": "dreymonde",
                 "repo": "Time",
-                "stars": 1063,
+                "stars": 1062,
                 "topics": [
                   "generics",
                   "ios",
@@ -9214,7 +9214,7 @@
                 "open_issues": 80,
                 "owner": "devicekit",
                 "repo": "DeviceKit",
-                "stars": 4736,
+                "stars": 4738,
                 "topics": [
                   "battery-level",
                   "battery-state",
@@ -9243,10 +9243,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-27T13:33:16Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Ekhoo",
                 "repo": "Device",
-                "stars": 1728,
+                "stars": 1729,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -9558,7 +9558,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24631,
+                "stars": 24629,
                 "topics": [
                   "functional",
                   "ios",
@@ -9588,7 +9588,7 @@
                 "open_issues": 12,
                 "owner": "ReactiveCocoa",
                 "repo": "ReactiveCocoa",
-                "stars": 19791,
+                "stars": 19790,
                 "topics": [
                   "reactivecocoa",
                   "reactiveswift",
@@ -9613,7 +9613,7 @@
                 "open_issues": 16,
                 "owner": "mxcl",
                 "repo": "PromiseKit",
-                "stars": 14212,
+                "stars": 14210,
                 "topics": [
                   "objc",
                   "promises",
@@ -9779,7 +9779,7 @@
                 "open_issues": 0,
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2231,
+                "stars": 2230,
                 "topics": [
                   "ios",
                   "katana",
@@ -11233,7 +11233,7 @@
                     "open_issues": 37,
                     "owner": "Mijick",
                     "repo": "Camera",
-                    "stars": 655,
+                    "stars": 656,
                     "topics": [
                       "avfoundation",
                       "camera",
@@ -11358,7 +11358,7 @@
                         "open_issues": 5,
                         "owner": "EFPrefix",
                         "repo": "EFQRCode",
-                        "stars": 4752,
+                        "stars": 4753,
                         "topics": [
                           "barcode",
                           "barcode-generator",
@@ -11545,10 +11545,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-12T15:19:55Z",
-                "open_issues": 164,
+                "open_issues": 166,
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24402,
+                "stars": 24403,
                 "topics": [
                   "cache",
                   "filters",
@@ -11682,7 +11682,7 @@
                 "open_issues": 18,
                 "owner": "Yummypets",
                 "repo": "YPImagePicker",
-                "stars": 4482,
+                "stars": 4483,
                 "topics": [
                   "camera",
                   "filter",
@@ -12849,7 +12849,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2724,
+                "stars": 2725,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -13503,7 +13503,7 @@
                     "open_issues": 12,
                     "owner": "SnapKit",
                     "repo": "SnapKit",
-                    "stars": 20343,
+                    "stars": 20341,
                     "topics": [
                       "auto",
                       "autolayout",
@@ -14425,7 +14425,7 @@
                 "open_issues": 4,
                 "owner": "SwiftyBeaver",
                 "repo": "SwiftyBeaver",
-                "stars": 6050,
+                "stars": 6049,
                 "topics": [
                   "apple-tv",
                   "ios",
@@ -15215,7 +15215,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-10T07:58:42Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
                 "stars": 42391,
@@ -15255,7 +15255,7 @@
                 "open_issues": 306,
                 "owner": "shadowsocks",
                 "repo": "ShadowsocksX-NG",
-                "stars": 32870,
+                "stars": 32869,
                 "topics": [
                   "kcptun",
                   "macos",
@@ -15283,7 +15283,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15351,
+                "stars": 15350,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -15332,7 +15332,7 @@
                 "open_issues": 47,
                 "owner": "kasketis",
                 "repo": "netfox",
-                "stars": 3754,
+                "stars": 3753,
                 "topics": [
                   "afnetworking",
                   "alamofire",
@@ -15403,7 +15403,7 @@
                 "open_issues": 0,
                 "owner": "Danie1s",
                 "repo": "Tiercel",
-                "stars": 2872,
+                "stars": 2873,
                 "topics": [
                   "background-download",
                   "cocoapods",
@@ -15759,7 +15759,7 @@
                 "open_issues": 4,
                 "owner": "delba",
                 "repo": "SwiftyOAuth",
-                "stars": 485,
+                "stars": 484,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -15801,7 +15801,7 @@
                 "open_issues": 10,
                 "owner": "dingwilson",
                 "repo": "MultiPeer",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "bluetooth",
                   "carthage",
@@ -16127,10 +16127,10 @@
                     "language": "Swift",
                     "license": "MIT",
                     "last_commit": "2026-10-15T06:34:58Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "scinfu",
                     "repo": "SwiftSoup",
-                    "stars": 5126,
+                    "stars": 5127,
                     "topics": [
                       "dom",
                       "extract",
@@ -16350,7 +16350,7 @@
                     "id": 6801108,
                     "language": "Swift",
                     "license": "NOASSERTION",
-                    "last_commit": "2025-11-22T22:08:10Z",
+                    "last_commit": "2026-10-15T23:59:41Z",
                     "open_issues": 6,
                     "owner": "priore",
                     "repo": "SOAPEngine",
@@ -16497,7 +16497,7 @@
                     "open_issues": 21,
                     "owner": "Kitura",
                     "repo": "BlueSocket",
-                    "stars": 1418,
+                    "stars": 1417,
                     "topics": [
                       "linux",
                       "macos",
@@ -16643,11 +16643,11 @@
                     "id": 49910095,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T11:49:30Z",
-                    "open_issues": 84,
+                    "last_commit": "2026-10-16T15:19:37Z",
+                    "open_issues": 82,
                     "owner": "vapor",
                     "repo": "vapor",
-                    "stars": 26228,
+                    "stars": 26227,
                     "topics": [
                       "framework",
                       "http",
@@ -16677,7 +16677,7 @@
                     "open_issues": 65,
                     "owner": "PerfectlySoft",
                     "repo": "Perfect",
-                    "stars": 13727,
+                    "stars": 13726,
                     "topics": [
                       "perfect",
                       "server-side-swift",
@@ -17075,11 +17075,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-10T05:39:19Z",
-                "open_issues": 530,
+                "last_commit": "2026-10-16T14:54:03Z",
+                "open_issues": 535,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19760,
+                "stars": 19761,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -17103,11 +17103,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-15T08:45:46Z",
-                "open_issues": 296,
+                "last_commit": "2026-10-16T07:34:10Z",
+                "open_issues": 294,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8933,
+                "stars": 8934,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -17490,7 +17490,7 @@
                     "open_issues": 9,
                     "owner": "RNCryptor",
                     "repo": "RNCryptor",
-                    "stars": 3353,
+                    "stars": 3352,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:36.412Z"
@@ -17838,7 +17838,7 @@
                     "open_issues": 82,
                     "owner": "evgenyneu",
                     "repo": "keychain-swift",
-                    "stars": 3012,
+                    "stars": 3013,
                     "topics": [
                       "ios",
                       "keychain",
@@ -17863,7 +17863,7 @@
                     "open_issues": 42,
                     "owner": "jrendel",
                     "repo": "SwiftKeychainWrapper",
-                    "stars": 1590,
+                    "stars": 1589,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:36.412Z"
@@ -17942,10 +17942,10 @@
                 "language": "Swift",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-05T16:42:42Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "HaishinKit",
                 "repo": "HaishinKit.swift",
-                "stars": 3075,
+                "stars": 3076,
                 "topics": [
                   "camera",
                   "moqt",
@@ -18002,7 +18002,7 @@
                 "open_issues": 15,
                 "owner": "wxxsw",
                 "repo": "SwiftTheme",
-                "stars": 2521,
+                "stars": 2520,
                 "topics": [
                   "dark-mode",
                   "ios",
@@ -18207,7 +18207,7 @@
                 "open_issues": 49,
                 "owner": "Quick",
                 "repo": "Quick",
-                "stars": 9820,
+                "stars": 9819,
                 "topics": [
                   "bdd",
                   "carthage",
@@ -18268,7 +18268,7 @@
                 "open_issues": 31,
                 "owner": "Quick",
                 "repo": "Nimble",
-                "stars": 4835,
+                "stars": 4834,
                 "topics": [
                   "asynchronous-expectations",
                   "bdd",
@@ -18326,7 +18326,7 @@
                 "open_issues": 18,
                 "owner": "vadymmarkov",
                 "repo": "Fakery",
-                "stars": 1820,
+                "stars": 1819,
                 "topics": [
                   "fake",
                   "fakery",
@@ -18405,11 +18405,11 @@
                 "id": 45864027,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T08:55:16Z",
+                "last_commit": "2026-10-16T13:13:59Z",
                 "open_issues": 26,
                 "owner": "swiftlang",
                 "repo": "swift-corelibs-xctest",
-                "stars": 1189,
+                "stars": 1190,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -18495,7 +18495,7 @@
                 "id": 57282966,
                 "language": "Objective-C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T12:42:42Z",
+                "last_commit": "2026-10-16T13:47:24Z",
                 "open_issues": 7,
                 "owner": "Subito-it",
                 "repo": "SBTUITestTunnel",
@@ -18790,7 +18790,7 @@
                 "open_issues": 58,
                 "owner": "Rightpoint",
                 "repo": "BonMot",
-                "stars": 3545,
+                "stars": 3544,
                 "topics": [
                   "auto-layout",
                   "constraints",
@@ -18901,7 +18901,7 @@
                 "open_issues": 39,
                 "owner": "keitaoouchi",
                 "repo": "MarkdownView",
-                "stars": 2177,
+                "stars": 2178,
                 "topics": [
                   "ios",
                   "markdown",
@@ -19713,7 +19713,7 @@
                 "open_issues": 98,
                 "owner": "Juanpe",
                 "repo": "SkeletonView",
-                "stars": 12888,
+                "stars": 12887,
                 "topics": [
                   "animation",
                   "carthage",
@@ -19863,7 +19863,7 @@
                 "open_issues": 39,
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
-                "stars": 5986,
+                "stars": 5985,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -20231,7 +20231,7 @@
                 "open_issues": 3,
                 "owner": "Baddaboo",
                 "repo": "ClassicKit",
-                "stars": 2192,
+                "stars": 2191,
                 "topics": [
                   "classic",
                   "ios",
@@ -21204,8 +21204,8 @@
                 "id": 86334597,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T13:11:57Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-16T09:47:19Z",
+                "open_issues": 10,
                 "owner": "algolia",
                 "repo": "instantsearch-ios",
                 "stars": 614,
@@ -22525,7 +22525,7 @@
                     "open_issues": 147,
                     "owner": "vikmeup",
                     "repo": "SCLAlertView-Swift",
-                    "stars": 5302,
+                    "stars": 5301,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:36.412Z"
@@ -22747,7 +22747,7 @@
                     "open_issues": 31,
                     "owner": "Mijick",
                     "repo": "Popups",
-                    "stars": 1808,
+                    "stars": 1807,
                     "topics": [
                       "alert",
                       "cocoapods",
@@ -23675,7 +23675,7 @@
                     "open_issues": 83,
                     "owner": "patchthecode",
                     "repo": "JTAppleCalendar",
-                    "stars": 7645,
+                    "stars": 7644,
                     "topics": [
                       "calendar",
                       "ios",
@@ -23704,7 +23704,7 @@
                     "open_issues": 65,
                     "owner": "airbnb",
                     "repo": "HorizonCalendar",
-                    "stars": 3161,
+                    "stars": 3160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:36.412Z"
@@ -23725,7 +23725,7 @@
                     "open_issues": 35,
                     "owner": "richardtop",
                     "repo": "CalendarKit",
-                    "stars": 2702,
+                    "stars": 2703,
                     "topics": [
                       "calendar",
                       "calendarkit",
@@ -23981,7 +23981,7 @@
                     "open_issues": 28,
                     "owner": "intuit",
                     "repo": "CardParts",
-                    "stars": 2516,
+                    "stars": 2515,
                     "topics": [
                       "cardparts",
                       "cards",
@@ -24660,7 +24660,7 @@
                     "open_issues": 366,
                     "owner": "PageMenu",
                     "repo": "PageMenu",
-                    "stars": 5211,
+                    "stars": 5212,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:36.412Z"
@@ -24681,7 +24681,7 @@
                     "open_issues": 29,
                     "owner": "rechsteiner",
                     "repo": "Parchment",
-                    "stars": 3464,
+                    "stars": 3463,
                     "topics": [
                       "ios",
                       "ios-libraries",
@@ -25818,7 +25818,7 @@
                     "open_issues": 17,
                     "owner": "Ramotion",
                     "repo": "animated-tab-bar",
-                    "stars": 11083,
+                    "stars": 11082,
                     "topics": [
                       "animation",
                       "ios",
@@ -26622,7 +26622,7 @@
                     "open_issues": 42,
                     "owner": "HeroTransitions",
                     "repo": "Hero",
-                    "stars": 22490,
+                    "stars": 22488,
                     "topics": [
                       "animation",
                       "animations",
@@ -27792,7 +27792,7 @@
                     "open_issues": 77,
                     "owner": "SwipeCellKit",
                     "repo": "SwipeCellKit",
-                    "stars": 6276,
+                    "stars": 6275,
                     "topics": [
                       "drag",
                       "ios",
@@ -27907,7 +27907,7 @@
                     "open_issues": 15,
                     "owner": "marty-suzuki",
                     "repo": "ReverseExtension",
-                    "stars": 1657,
+                    "stars": 1656,
                     "topics": [
                       "extension",
                       "reverse",
@@ -28634,7 +28634,7 @@
                 "open_issues": 23,
                 "owner": "SwifterSwift",
                 "repo": "SwifterSwift",
-                "stars": 15224,
+                "stars": 15226,
                 "topics": [
                   "awesome",
                   "carthage",
@@ -28676,7 +28676,7 @@
                 "open_issues": 78,
                 "owner": "mac-cain13",
                 "repo": "R.swift",
-                "stars": 9549,
+                "stars": 9547,
                 "topics": [
                   "autocompletion",
                   "code-generator",
@@ -28762,7 +28762,7 @@
                 "id": 67177488,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T15:13:12Z",
+                "last_commit": "2026-10-15T19:35:20Z",
                 "open_issues": 62,
                 "owner": "apple",
                 "repo": "swift-protobuf",
@@ -28787,7 +28787,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4428,
+                "stars": 4427,
                 "topics": [
                   "ios",
                   "macos",
@@ -28812,7 +28812,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-03-10T23:42:59Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "devxoul",
                 "repo": "Then",
                 "stars": 4395,
@@ -28976,7 +28976,7 @@
                 "open_issues": 11,
                 "owner": "antitypical",
                 "repo": "Result",
-                "stars": 2483,
+                "stars": 2482,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:36.412Z"
@@ -30161,7 +30161,7 @@
                 "id": 502404323,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-17T09:36:33Z",
+                "last_commit": "2026-10-16T07:07:08Z",
                 "open_issues": 0,
                 "owner": "reers",
                 "repo": "ReerKit",
@@ -30582,7 +30582,7 @@
                 "open_issues": 11,
                 "owner": "ustwo",
                 "repo": "formvalidator-swift",
-                "stars": 488,
+                "stars": 487,
                 "topics": [
                   "form-validation",
                   "ios",
@@ -30951,7 +30951,7 @@
                 "open_issues": 120,
                 "owner": "BrikerMan",
                 "repo": "BMPlayer",
-                "stars": 2002,
+                "stars": 2001,
                 "topics": [
                   "avplayer",
                   "carthage",
@@ -31008,7 +31008,7 @@
                 "open_issues": 25,
                 "owner": "HHK1",
                 "repo": "PryntTrimmerView",
-                "stars": 907,
+                "stars": 906,
                 "topics": [
                   "crop",
                   "cropping",
@@ -31261,7 +31261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:41:30.533Z",
+    "last_updated": "2026-10-16T15:26:59.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
@@ -31270,10 +31270,10 @@
       "language": "Ruby",
       "license": "CC0-1.0",
       "last_commit": "2026-09-01T05:37:47Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "matteocrippa",
       "repo": "awesome-swift",
-      "stars": 26318,
+      "stars": 26319,
       "topics": [
         "awesome",
         "awesome-list",
